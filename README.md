@@ -1,10 +1,10 @@
-### Projeto Barberaria 
+## Projeto Barberaria 
 
-## Rodar Webhook:
+#### Rodar Webhook:
   stripe listen --forward-to localhost:3333/webhooks
 
-## Rodar Back-end:
+#### Rodar Back-end:
 Cd documents -> cd barber pro > Yarn Dev
 
-## Rodar Front-end:
+#### Rodar Front-end:
 Cd documents -> cd barberproweb > Yarn Dev
